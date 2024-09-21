@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_X6871.mk
+    $(LOCAL_DIR)/twrp_orion.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_X6871-user \
-    twrp_X6871-userdebug \
-    twrp_X6871-eng
+    twrp_orion-user \
+    twrp_orion-userdebug \
+    twrp_orion-eng
